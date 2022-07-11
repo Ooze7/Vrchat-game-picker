@@ -1,0 +1,70 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+    color: green;
+}
+
+p {
+    text-align: center;
+    font-family: monospace;
+    color: green;
+}
+
+.game-button {
+    height: 200px;
+    width: 100px;
+    margin: -20px -50px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    border-radius: 20%;
+    border-width: 1em;
+    border-color: green;
+}
+
+.btn-div {
+    margin: auto;
+    width: 5%;
+    border: 3px solid green;
+    padding: 50px;
+    align-content: center;
+    border-radius: 30%;
+}
+
+
+.wrap {
+    margin: 1rem;
+    background-color: lightslategray;
+    border-radius: 100%;
+}
+
+.hidden-buttons {
+    
+}
+
+.hidden1 , .hidden2 {
+    display: inline-block;
+    margin: 50px 80px;
+    position: relative;
+   
+}
+
+button {
+    height: 200px;
+    width: 100px;
+    margin: -20px -50px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    border-radius: 20%;
+    border-width: 1em;
+    border-color: green;
+}
+
+
+
+
